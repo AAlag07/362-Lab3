@@ -212,6 +212,7 @@ body {
 h1 {
    font-size: 40px;
    margin: auto;
+   padding: 40px;
    background-color: #231E1E;
    font-family: 'Monaco', Monospace;
 }
@@ -219,7 +220,7 @@ h1 {
 p {
    width: 90%;
    margin: auto;
-   padding: 20px;
+   padding: 40px;
    background-color:#2C2424;
    font-family: 'Georgia', Serif;
 }
@@ -228,6 +229,7 @@ p {
    margin: auto;
    display: block;
    text-align: center;
+   padding: 40px;
    background-color:#325170;
    font-family: 'Courier New', Monospace;
 }
@@ -237,7 +239,7 @@ p {
    width: 100;
    display: block;
    text-align: center;
-   padding: 20px;
+   padding: 40px;
    background-color:#23384C;
    font-family: 'Times New Roman', Times, serif;
 }
@@ -246,7 +248,7 @@ p {
    margin: auto;
    display: block;
    text-align: center;
-   padding: 20px;
+   padding: 40px;
    background-color:#325170;
    font-family: 'Times New Roman', Times, serif;
 }
