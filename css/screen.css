@@ -226,17 +226,16 @@ p {
 }
 
 #input-email {
-   margin: auto;
    display: block;
    text-align: center;
+   width: 100%;
    padding: 40px;
    background-color:#325170;
    font-family: 'Courier New', Monospace;
 }
 
 #input-age-verification {
-   margin: auto;
-   width: 100;
+   width: 100%;
    display: block;
    text-align: center;
    padding: 40px;
@@ -245,7 +244,7 @@ p {
 }
 
 #input-sumbit {
-   margin: auto;
+   width: 100%;
    display: block;
    text-align: center;
    padding: 40px;
