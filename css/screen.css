@@ -207,18 +207,19 @@ label {
 
 body {
    text-align: center;
+   width: 100%;
 }
 
 h1 {
    font-size: 40px;
-   padding: 40px;
+   padding: 20px;
    background-color: #231E1E;
    font-family: 'Monaco', Monospace;
 }
 
 p {
    width: 100%;
-   padding: 40px;
+   padding: 20px;
    background-color:#2C2424;
    font-family: 'Georgia', Serif;
 }
@@ -227,7 +228,7 @@ p {
    display: block;
    text-align: center;
    width: 100%;
-   padding: 40px;
+   padding: 20px;
    background-color:#325170;
    font-family: 'Courier New', Monospace;
 }
@@ -236,7 +237,7 @@ p {
    width: 100%;
    display: block;
    text-align: center;
-   padding: 40px;
+   padding: 20px;
    background-color:#23384C;
    font-family: 'Times New Roman', Times, serif;
 }
@@ -245,7 +246,7 @@ p {
    width: 100%;
    display: block;
    text-align: center;
-   padding: 40px;
+   padding: 20px;
    background-color:#325170;
    font-family: 'Times New Roman', Times, serif;
 }
